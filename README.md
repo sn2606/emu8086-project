@@ -73,7 +73,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Assembly language programming and its thorough understanding is a great asset for a Computer Science undergraduate. Experience in programming using lower-level or assembly languages gives an insight into computer architecture and computer organization that is highly valuable. In this project, a Bank Management System is implemented in two modules - user and admin using an emu8086 microprocessor emulator. The system is programmed using assembly language programming. The implemented program is menu-driven. The menu consists of options to allow users to create, remove and update a bank account. The admin can find users by city, pincode and state; and insert new users. It has the functionality to deposit or withdraw money from the account. A registered user can also retrieve account details when the user chooses such an option. The code will adhere to best programming practices such as Don't Repeat Yourself and commenting. Appropriate registers and segments are used while implementing calculations, and memory is used efficiently. Assembly language concepts such as macros, procedures, and file handling are used.`
+Assembly language programming and its thorough understanding is a great asset for a Computer Science undergraduate. Experience in programming using lower-level or assembly languages gives an insight into computer architecture and computer organization that is highly valuable. In this project, a Bank Management System is implemented in two modules - user and admin using an emu8086 microprocessor emulator. The system is programmed using assembly language programming. The implemented program is menu-driven. The menu consists of options to allow users to create, remove and update a bank account. The admin can find users by city, pincode and state; and insert new users. It has the functionality to deposit or withdraw money from the account. A registered user can also retrieve account details when the user chooses such an option. The code will adhere to best programming practices such as Don't Repeat Yourself and commenting. Appropriate registers and segments are used while implementing calculations, and memory is used efficiently. Assembly language concepts such as macros, procedures, and file handling are used.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -98,7 +98,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo
+1. Clone the repo or download zip 
    ```sh
    git clone https://github.com/sn2606/emu8086-project.git
    ```
@@ -131,12 +131,12 @@ Project Link: [https://github.com/sn2606/emu8086-project](https://github.com/sn2
   * Ayush Mishra (19BCE2684)
 
 
-Websites referred
-* https://jbwyatt.com/253/emu/asm_tutorial_01.html
-* https://stackoverflow.com/
-* https://www.tutorialspoint.com/assembly_programming/index.htm
-* https://gurugio.gitbooks.io/book_assembly_8086/content/
-* http://spike.scu.edu.au/~barry/interrupts.html
+* Websites referred
+  * https://jbwyatt.com/253/emu/asm_tutorial_01.html
+  * https://stackoverflow.com/
+  * https://www.tutorialspoint.com/assembly_programming/index.htm
+  * https://gurugio.gitbooks.io/book_assembly_8086/content/
+  * http://spike.scu.edu.au/~barry/interrupts.html
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
