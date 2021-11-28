@@ -125,12 +125,6 @@ Project Link: [https://github.com/sn2606/emu8086-project](https://github.com/sn2
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* Team Members
-  * Swaranjana Nayak (19BCE0977)
-  * Saketh J. (19BCE2493)
-  * Ayush Mishra (19BCE2684)
-
-
 * Websites referred
   * https://jbwyatt.com/253/emu/asm_tutorial_01.html
   * https://stackoverflow.com/
